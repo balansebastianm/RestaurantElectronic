@@ -15,7 +15,7 @@ git clone https://github.com/MrJ33F/RestaurantElectronic
 
 ```python
 -Poate sa faca o rezervare din timp. (Aceasta fiind trimisa pe email cu un ID unic de autentificare)
--Daca acesta nu face o rezervare din timp un ID generat aleatoriu ii se va aloca 
+-Daca acesta nu face o rezervare din timp un ID generat aleatoriu ii se va aloca si se verifica daca mai sunt mese disponibile.
 -Poate plasa o comanda.
 -Poate modfica/sterge comanda inainte de a fi trimisa la administratie.
 -Poate vizualiza meniul restaurantului/comenzile pe care acesta le-a pus.
